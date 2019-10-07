@@ -100,8 +100,8 @@
 # Envio de SMS
  - O sistema possui um modulo de envio de sms, para qualquer operadora de telefonia celular no Brasil e automação de processo internos como relatório de faturamento e contas a pagar no dia. Consulte valores dos envios.
 
-# Consulta Serasa
- - O sistema possui um modulo de envio de Consulta SERASA, são mais de 5 tipos de consultas que sua empresa pode dispor dentro do sistema. Sua grande vantagem é poder arquivar estas informações junto com seu cadastro de cliente, podendo assim ter um histórico detalhado das consultas. Consulte valores das consultas.
+# Consulta de negativação aos órgãos de proteção de crédito
+ - O sistema possui um modulo de envio de Consulta aos órgãos de proteção de crétido, são mais de 5 tipos de consultas que sua empresa pode dispor dentro do sistema. Sua grande vantagem é poder arquivar estas informações junto com seu cadastro de cliente, podendo assim ter um histórico detalhado das consultas. Consulte valores das consultas.
 
 # Loja Virtual
  - O sistema possui um modulo que possibilita sua empresa vender pela internet, de um jeito simples e descomplicado não sendo necessário cadastrar novamente seus produtos nem ficar controlando o estoque. Pois o sistema é totalmente integrado e sincronizado com sua Oficina de Motos.
