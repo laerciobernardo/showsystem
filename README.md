@@ -21,21 +21,27 @@
 # Vendas e faturamento
  - Orçamentos
  - Agrupamento de pedidos
+ - Envio de e-mail de Orçamento, Pedido
+ - Emissão de Etiquetas de produtos
+ - Emissão de Etiquetas de transporte
+ - Lançamento e gerenciamento de comissões
+ - Venda Balcão e impressão de cupom não fiscal
+ 
+# Faturamento
+ - Emissão de nota fiscal de serviço e venda com base na OS
+ - Emissão de nota fiscal de serviço (NFs-e)
+ - Envio de nota fiscal e XML por email
  - Nota Fiscal Eletrônica (NF-e)
  - Nota Fiscal Eletrônica de Importação e Exportação
  - Guarda de XML durante 6 anos
- - Envio de e-mail de Orçamento, Pedido e Nota fiscal
  - Carta de Correção Eletrônica
  - Inutilização de notas fiscais
- - Emissão de Etiquetas de produtos
- - Emissão de Etiquetas de transporte
  - Importação de XML ou TXT padrão SEFAZ
  - Emissão e Impressão de Notas Fiscais em massa
  - Controle da situação da nota fiscal
  - Nota fiscal eletrônica de contenção
- - Lançamento e gerenciamento de comissões
- - Venda Balcão e impressão de cupom não fiscal
-
+ - Nota fiscal eletrônica de entrada
+ 
 # Compras
  - Ordem de compra
  - Pedidos de compra por indicação de vendedor / depto
@@ -43,8 +49,6 @@
  - Entrada de mercadoria
  - Importação de XML do fornecedor
  - Cadastramento de produtos, fornecedores, transportadoras via XML
- - Guarda de XML durante 6 anos
- - Nota fiscal eletrônica de entrada
  - Formação de Preço
 
 # Estoque
@@ -62,11 +66,6 @@
  - Controle técnico de horas
  - Envio de e-mail
  - Status da execução da Ordem de serviço
- - Emissão de nota fiscal de serviço e venda com base na OS
- - Emissão de nota fiscal de serviço (NFs-e)
- - Guarda de XML durante 6 anos
- - * Exportação de XML padrão ABRASF
- - Controle da situação da nota fiscal
  - Serviços recorrentes
  - Geração de Boletos no Serviço recorrente
  - Geração de Nota Fiscal no Serviço recorrente
