@@ -18,7 +18,7 @@
  - Condições de Pagamento Customizáveis
  - Renegociação e/ou agrupamento de Contas
 
-# Vendas e faturamento
+# Vendas
  - Orçamentos
  - Agrupamento de pedidos
  - Envio de e-mail de Orçamento, Pedido
