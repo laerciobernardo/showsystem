@@ -109,3 +109,15 @@
  - Histórico de serviços
  - Calculadora de próximos serviços (Troca de Óleo, Kits, etc).
  - Abertura de chamados de serviços emergênciais
+
+# Conta digital
+  - Integrar uma conta digital para simplificar o controle financeiro da oficina com possibilidade de adicionar alguns serviços financeiros como:
+    * Emissão de boletos
+    * Maquinas de cartão de crédito
+    * Empréstimos para capital de giro*
+    * Antecipação de recebíveis
+
+# Integrações
+ - Adquirir cadastros de produtos e serviços semelhantes aos das autorizadas com detalhes de serviços e peças por quilometragem.
+ - Integrar com as distribuidoras locais e nacionais para orçar ou fazer pedidos com descontos exclusivos, para pagamentos a vista.
+ - 
